@@ -1,15 +1,13 @@
-<!-- KEEP your existing Everforest SVG card here, at the very top. Example:
-<p align="center"><img src="./card.svg" alt="Swati Manjari Panda" /></p>
--->
 
-# Hi, I'm Swati Manjari Panda 👋
+
+# Hi, I'm Swati Manjari Panda 
 
 BSc Computer Science student at Gangadhar Meher University, Sambalpur, Odisha (graduating 2028).
 I build small frontend projects, I am getting comfortable with open source, and I am learning how software gets shipped.
 
 ---
 
-## 🌱 What I'm learning right now
+## What I'm learning right now
 
 | Area | What I'm working on |
 | --- | --- |
@@ -17,13 +15,13 @@ I build small frontend projects, I am getting comfortable with open source, and 
 | **Docker & Kubernetes** | Images, containers, volumes, networking, and Docker Compose, with Kubernetes next |
 | **Open source** | Making my first pull requests through Social Winter of Code (SWoC) Season 7 |
 
-## 🎯 Goals
+## Goals
 
 - Get my first pull requests merged in SWoC Season 7
 - Keep contributing to open source and apply to programs like GSoC 2027 and LFX Mentorship
 - Understand the full path from writing code to deploying it
 
-## 🛠️ Tech I use
+##  Tech I use
 
 ![HTML5](https://img.shields.io/badge/HTML5-2d353b?style=for-the-badge&logo=html5&logoColor=a7c080)
 ![CSS3](https://img.shields.io/badge/CSS3-2d353b?style=for-the-badge&logo=css3&logoColor=a7c080)
@@ -35,7 +33,7 @@ I build small frontend projects, I am getting comfortable with open source, and 
 
 **Currently picking up:** ![Docker](https://img.shields.io/badge/Docker-2d353b?style=for-the-badge&logo=docker&logoColor=a7c080) ![Kubernetes](https://img.shields.io/badge/Kubernetes-2d353b?style=for-the-badge&logo=kubernetes&logoColor=a7c080)
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Links |
 | --- | --- | --- |
@@ -46,14 +44,14 @@ I build small frontend projects, I am getting comfortable with open source, and 
 
 More to explore: [DSA Quiz](https://swatimanjari.github.io/DS_Quiz/), [Gato Meme Soundboard](https://swatimanjari.github.io/Gato_meme/), and the To-Do List app from my CodSoft internship.
 
-## 🏅 Open source and certifications
+## Open source and certifications
 
 - **Contributor**, Social Winter of Code Season 7
 - **Frontend Intern**, CodSoft
 - Microsoft Learn: *Get Started with Web Development Using Visual Studio Code*
 - Microsoft Learn: *Learn the Basics of Web Accessibility*
 
-## 📫 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=a7c080)](https://www.linkedin.com/in/swati-manjari-panda-463074406)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d353b?style=for-the-badge&logo=githubpages&logoColor=a7c080)](https://swatimanjari.github.io/About_Me/)
