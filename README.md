@@ -37,7 +37,7 @@ I build small frontend projects, I am getting comfortable with open source, and 
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **Portfolio** | My personal site about me and my work (HTML) | [Repo](https://github.com/SwatiManjari/Portfolio) · [Live](https://swatimanjari.github.io/About_Me/) |
+| **Portfolio** | My personal site about me and my work (HTML) | [Repo](https://github.com/SwatiManjari/Portfolio) · [Live](https://swatimanjari.github.io/Portfolio/) |
 | **SkillGraph** | A web app built collaboratively for DevHack 2026 (JavaScript) | [Repo](https://github.com/SwatiManjari/SkillGraph) |
 | **weatherPage** | A weather page built with JavaScript | [Repo](https://github.com/SwatiManjari/weatherPage) |
 | **laravel** | My Laravel practice repo (Blade) | [Repo](https://github.com/SwatiManjari/laravel) |
