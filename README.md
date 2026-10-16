@@ -54,7 +54,7 @@ More to explore: [DSA Quiz](https://swatimanjari.github.io/DS_Quiz/), [Gato Meme
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=a7c080)](https://www.linkedin.com/in/swati-manjari-panda-463074406)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d353b?style=for-the-badge&logo=githubpages&logoColor=a7c080)](https://swatimanjari.github.io/About_Me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d353b?style=for-the-badge&logo=githubpages&logoColor=a7c080)](https://swatimanjari.github.io/Portfolio/)
 
 ---
 
