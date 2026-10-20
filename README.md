@@ -39,8 +39,6 @@ I build web projects, contribute to open source, and explore how software is dev
 | **WeatherPage** | Weather application using JavaScript and the Open-Meteo API. | [Repository](https://github.com/SwatiManjari/weatherPage) |
 | **Website Uptime Monitor** | Dockerized Node.js application for checking website availability and response times. | [Repository](https://github.com/SwatiManjari/docker-practice) |
 
-**More projects:** [DSA Quiz](https://swatimanjari.github.io/DS_Quiz/) · [Gato Meme Soundboard](https://swatimanjari.github.io/Gato_meme/)
-
 ## Open Source & Experience
 
 - **Open Source Contributor** — Contributing fixes, improvements, and documentation to community projects.
