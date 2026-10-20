@@ -43,7 +43,6 @@ I build web projects, contribute to open source, and explore how software is dev
 
 - **Open Source Contributor** — Contributing fixes, improvements, and documentation to community projects.
 - **SWoC Season 7** — Selected contributor.
-- **Frontend Intern** — CodSoft.
 
 ## Certifications & Learning
 
