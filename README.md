@@ -8,7 +8,6 @@ I build web projects, contribute to open source, and explore how software is dev
 
 - **Open Source:** Contributing to real-world projects through pull requests, bug fixes, and documentation.
 - **Docker & DevOps:** Practicing containerization, Docker Compose, and application deployment.
-- **JavaScript:** Building projects with vanilla JavaScript and strengthening my fundamentals before moving to React.
 - **Cloud & Infrastructure:** Exploring Kubernetes and the tools behind modern software delivery.
 
 ## Tech Stack
